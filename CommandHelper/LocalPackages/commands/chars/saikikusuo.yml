@@ -31,6 +31,7 @@ permissions:
   - libsdisguises.undisguise
   - libsdisguises.disguise.player
   - ch.alias.speak
+  - ch.alias.mindlock 
 powers:
 - /effects
 - /items
@@ -52,6 +53,7 @@ powers:
 - /disguise
 - /undisguise
 - /speak <player> <message>
+- /mindlock <player>
 run: 7
 speech: I can hear everyones thoughts, its annoying.
 trail: [
