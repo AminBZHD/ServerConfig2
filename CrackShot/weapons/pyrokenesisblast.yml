@@ -9,8 +9,8 @@ pyrokenesisblast:
         Projectile_Amount: 1
         Projectile_Type: energy
         Projectile_Subtype: 40-1-NONE-0
-        Projectile_Damage: 40
-        Delay_Between_Shots: 40
+        Projectile_Damage: 30
+        Delay_Between_Shots: 5
     Reload:
         Enable: false
     Hit_Events:
